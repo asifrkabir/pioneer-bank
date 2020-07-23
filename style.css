@@ -10,7 +10,7 @@ body{
 }
 
 #transaction-area{
-    /* display: none; */
+    display: none;
 }
 
 .deposit{
